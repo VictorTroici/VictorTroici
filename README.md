@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/victortroici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victortroici" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victortroici&show_icons=true&locale=en" alt="victortroici" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victortroici&show_icons=true&locale=en" alt="victortroici" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victortroici&show_icons=true&locale=en&layout=compact" alt="victortroici" /></p>
 
